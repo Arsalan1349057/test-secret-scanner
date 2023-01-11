@@ -8,3 +8,4 @@ secret: DSA$#@564!!#$54DSAFbDS5$
 password: UGFzc3dvcmQxMjM0IQ==
 8z&i6&T1yny2B9Ql9*&!ny9qmRYZQ
 password=8z&i6&T1yny2B9Ql9*&!ny9qmRYZQ2
+password=8z&i6&T1yny2B9Ql9*&!ny9qmRYZQ2
